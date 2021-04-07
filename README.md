@@ -7,3 +7,5 @@ feature-A
 - feature-D
 
 さらにこれはfeature-D!
+
+Oh yeah additional info!
