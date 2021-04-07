@@ -9,3 +9,4 @@ feature-A
 さらにこれはfeature-D!
 
 Oh yeah additional info!
+#2 issue is fixed.
